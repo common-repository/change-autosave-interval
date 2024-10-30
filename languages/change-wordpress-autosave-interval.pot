@@ -1,0 +1,45 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Change WordPress Autosave Interval\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2019-07-30 06:18+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.3.0; wp-5.2.2"
+
+#. Author of the plugin
+msgid "Carlos Mart&iacute;nez Romero"
+msgstr ""
+
+#. Name of the plugin
+msgid "Change WordPress Autosave Interval"
+msgstr ""
+
+#. Author URI of the plugin
+msgid "https://carlosmr.com"
+msgstr ""
+
+#. URI of the plugin
+msgid "https://carlosmr.com/plugin/ajustar-el-tiempo-de-autoguardado/"
+msgstr ""
+
+#: change-wordpress-autosave-interval.php:42
+msgid ""
+"Keep in mind that this plugin wont work if the time is already defined "
+"elsewhere."
+msgstr ""
+
+#. Description of the plugin
+msgid ""
+"This plugin creates a new setting at the end of Settings > General that "
+"allows to select the interval of time that WordPress take autosave your "
+"contents while editing."
+msgstr ""
